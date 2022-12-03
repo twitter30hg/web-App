@@ -8,3 +8,7 @@ last Devps for the day
 :
 deployment4
 
+deploy to statigin
+echo good job!
+tested and accepted
+
